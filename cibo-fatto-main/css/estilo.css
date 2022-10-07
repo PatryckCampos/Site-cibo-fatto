@@ -1,0 +1,52 @@
+.container{
+    background-color: rgb(221, 247, 226);
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-center{
+    text-align: center;
+}
+
+div#texto p{
+    padding-top: 10px;
+}
+
+body{
+    background-color: rgb(221, 247, 226);
+}
+
+.navbar-custom{
+    background-color: #e73c2f;
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Roboto';
+}
+
+.rodape{
+    background-color: rgb(35, 43, 39);
+}
+
+section#rodape h2{
+    font-family: 'Lobster', cursive;
+}
+
+#rodape h3{
+    padding-top: 10px;
+}
+
+.bordinha{
+    border-radius: 4px;
+}
